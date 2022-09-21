@@ -1,0 +1,129 @@
+button{
+    background-color: rgb(246, 17, 204);
+    color:white;
+    border: none;
+    border-radius: 10px;
+    font-size: 18px;
+}
+.nav-header{
+    background-color: rgb(181, 247, 247);
+    display:block;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    display: flex;
+}
+.logo{
+    height: 40px;
+}
+
+.wallpaper{
+    display: inline-block;
+    height: 100vh;
+}
+
+.h2{
+    height:20px;
+    
+}
+.nav-bar,li{
+
+    list-style: none;
+    display: inline;
+    text-align: center;
+}
+
+.first{
+    background-color: rgb(241, 248, 250);
+    height: 350px;
+    width: 250px;
+    border-radius: 2px;
+    display:inline-block;
+    border: solid rgb(157, 157, 252);
+    padding-left: 40px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin: auto;
+    justify-content: space-between;
+
+    
+}
+
+.p{
+    background-color: rgb(249, 186, 186);
+    height: 350px;
+    width: 250px;
+    border-radius: 2px;
+    display:inline-block;
+    border: solid rgb(251, 25, 138);
+    padding-left: 40px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin: auto;
+    justify-content: space-between;
+
+
+}
+
+.cpp{
+    background-color: rgb(246, 175, 242);
+    height: 350px;
+    width: 250px;
+    border-radius: 2px;
+    display:inline-block;
+    border: solid rgb(248, 106, 50);
+    padding-left: 40px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin: auto;
+    justify-content: space-between;
+
+
+}
+
+.fourth{
+    background-color: rgb(241, 248, 250);
+    height: 350px;
+    width: 250px;
+    border-radius: 2px;
+    display:inline-block;
+    border: solid  rgb(157, 157, 252);
+    padding-left: 40px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    margin: auto;
+    justify-content: space-between;
+
+
+
+}
+.img{
+    height: 200px;
+    margin:auto;
+    justify-content: center;
+}
+
+h1{
+    font-size: 18px;
+    font-family: cursive;
+    text-align: center;
+}
+
+.rate{
+    display:block;
+    height:45px;
+    padding-left: 80px;
+    align-items: center;
+
+}
+
+.cart{
+    display: block;
+    background-color: rgb(120, 154, 249);
+    color: black;
+    width:200px;
+    padding-left: 20px;
+
+}
